@@ -1,3 +1,7 @@
+# tsc.py
+## TimeStamp Converter
+
+
 Converts timestamps from MM:DD to total number of seconds.  Originally written for sharing YouTube links at a specific timestamp, but works for other use cases, as well.
 
 I wrote this back in Nov 2025, but only pushed the local repo to GitHub in June 2026.
